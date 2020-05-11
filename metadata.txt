@@ -1,0 +1,29 @@
+
+ Model Species Params:
+ Species Abbrev: STB 
+ Full Name: Small_tomato_borer 
+ Pest of: tomato, eggplant, peppers
+ Overwintering Stage: OA 
+ Egg Lower Devel Threshold: 8.89 
+ Egg Upper Devel Threshold: 30
+ Larvae Lower Devel Threshold: 8.89 
+ Larvae Upper Devel Threshold: 30 
+ Pupae Lower Devel Threshold: 8.89
+ Pupae Upper Devel Threshold: 30 
+ Adult Lower Devel Threshold: 8.89 
+ Adult Upper Devel Threshold: 30
+
+ Model Input Params:
+ Start Year: 1990_daily1990_daily1990_daily_30yr 
+ Start Day-of-year: 1
+ End Day-of-Year: 365 
+ Region: CONUS 
+ Stage overlap: 0.4
+ Exclusion Maps: 0 
+ PestEvent Maps: 0 
+ Output_Dir: test
+ Output Option: 1 
+ Map Adults: 1 
+ Map Eggs: 1
+ Map Larvae: 0 
+ Map Pupae: 0
